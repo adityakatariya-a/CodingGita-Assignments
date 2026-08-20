@@ -11,6 +11,9 @@
 
 **Submission:** Written answers + diagram
 
+**Answers:**
+
+
 <img width="1600" height="900" alt="01-05 1" src="https://github.com/user-attachments/assets/eb43b5ec-7c03-4b8b-8eaa-904b3d8b5bfc" />
 
 <img width="900" height="1600" alt="01-05 2" src="https://github.com/user-attachments/assets/edeb4b8b-478a-4045-9f37-e6ef0d320ffd" />
