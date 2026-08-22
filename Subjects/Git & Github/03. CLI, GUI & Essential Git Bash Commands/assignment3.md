@@ -22,3 +22,11 @@
    - `ls -la`
 
 **Submission:** List of commands used + short answers
+
+**Answers:**
+
+<img width="1600" height="1401" alt="03-03 1" src="https://github.com/user-attachments/assets/05ebe34f-f777-42ec-bade-9f93b253b625" />
+
+<img width="1600" height="1410" alt="03-03 2" src="https://github.com/user-attachments/assets/3cf533ed-8ce8-40d0-88fa-9746b5efdab8" />
+
+
