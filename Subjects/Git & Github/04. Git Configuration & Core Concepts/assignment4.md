@@ -23,3 +23,12 @@
 3. Write 4 key points you learned in Day 4.
 
 **Submission:** Written answers
+
+**Answers:**
+
+<img width="899" height="1599" alt="04-04 1" src="https://github.com/user-attachments/assets/07d5e1c4-44eb-4fb0-8476-e4b6f2798ff2" />
+
+<img width="1600" height="1034" alt="04-04 2" src="https://github.com/user-attachments/assets/430183f4-a178-451d-b287-f7cf990880af" />
+
+
+
