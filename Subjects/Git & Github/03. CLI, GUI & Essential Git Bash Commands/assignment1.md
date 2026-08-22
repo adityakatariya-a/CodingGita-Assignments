@@ -10,3 +10,11 @@
 5. Give 2 examples of GUI and 2 examples of CLI.
 
 **Submission:** Written answers
+
+**Answers:**
+
+<img width="899" height="1599" alt="03-01 1" src="https://github.com/user-attachments/assets/0eccf9ef-cfff-4bf4-bf05-065310b08554" />
+
+<img width="1600" height="1308" alt="03-01 2" src="https://github.com/user-attachments/assets/98b31d13-0636-46fd-8814-81c73fb43767" />
+
+
