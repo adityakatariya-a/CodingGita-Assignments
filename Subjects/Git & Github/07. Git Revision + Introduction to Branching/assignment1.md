@@ -17,3 +17,11 @@
 
 **Submission:** Written answers
 
+**Answers:**
+
+<img width="1044" height="1599" alt="07-01 1" src="https://github.com/user-attachments/assets/080213d4-8236-4b50-ab2c-6c657c2a7316" />
+
+<img width="1039" height="1600" alt="07-01 2" src="https://github.com/user-attachments/assets/c90f266f-5e72-4dd3-8a3c-3c80b05b6d4f" />
+
+
+
