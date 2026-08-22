@@ -18,4 +18,12 @@
 
 **Submission:** Written answers
 
+**Answers:**
+
+<img width="1600" height="1107" alt="07-05 1" src="https://github.com/user-attachments/assets/136df781-2e38-41db-9eb8-b8db36067262" />
+
+<img width="950" height="1600" alt="07-05 2" src="https://github.com/user-attachments/assets/c2e94b4b-ffd7-4f15-8cbc-a1a2c9ec260d" />
+
+
+
 
