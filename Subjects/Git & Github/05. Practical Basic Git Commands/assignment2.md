@@ -13,3 +13,11 @@
 
 **Submission:** Written answers
 
+**Answers:**
+
+<img width="1600" height="1566" alt="05-02 1" src="https://github.com/user-attachments/assets/5411c6e6-a575-44ba-823a-9b6e33eaa8c4" />
+
+<img width="1600" height="1476" alt="05-02 2" src="https://github.com/user-attachments/assets/cafe5436-7e6b-4363-9ca4-829be010c6fa" />
+
+
+
