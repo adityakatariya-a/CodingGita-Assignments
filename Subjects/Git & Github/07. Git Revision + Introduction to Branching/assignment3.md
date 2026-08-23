@@ -23,3 +23,14 @@
 - Screenshot of successful push  
 - Screenshot of the file on GitHub
 
+**Answers:**
+
+<img width="1919" height="1079" alt="Screenshot 2026-08-23 102243" src="https://github.com/user-attachments/assets/4015ff7c-765d-4f78-b250-be4694aa7dcf" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-08-23 102323" src="https://github.com/user-attachments/assets/a7dc2f20-2590-48a2-9412-76dead656cb1" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-08-23 102402" src="https://github.com/user-attachments/assets/4b6ea396-11ed-47d2-ac78-2ff903b411e9" />
+
+
+
+
