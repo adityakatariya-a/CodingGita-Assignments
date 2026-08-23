@@ -44,3 +44,22 @@ Submit the following:
 
 **Note:** Make sure your repository is public (or accessible to the mentor) so the submission can be verified.
 
+**Answers:**
+
+**1.**
+
+https://github.com/adityakatariya-a/Day5-practise--repo.git
+
+**2.**
+
+<img width="1919" height="1079" alt="Screenshot 2026-08-23 105331" src="https://github.com/user-attachments/assets/22b26841-9cb8-4eeb-8a17-615530af0502" />
+
+**3.**
+
+<img width="1918" height="974" alt="Screenshot 2026-08-23 105424" src="https://github.com/user-attachments/assets/7af848b6-542e-4ac3-9c0f-5558cf0d237d" />
+
+<img width="1916" height="969" alt="Screenshot 2026-08-23 105439" src="https://github.com/user-attachments/assets/ddab02e4-fada-427d-95b9-0e8b80c45a4a" />
+
+
+
+
