@@ -22,6 +22,24 @@ You are working on a website project. Currently you are on the `main` branch. Yo
 
 **Answers:**
 
+**Final list of branch**
+
+<img width="1438" height="898" alt="Screenshot 2026-08-24 202233" src="https://github.com/user-attachments/assets/eeb92849-ee3c-447c-b625-f0ccf94c7195" />
+
+**screenshot of both merges**
+
+<img width="1438" height="898" alt="Screenshot 2026-08-24 201603" src="https://github.com/user-attachments/assets/5e425ccf-c72a-4e03-afc0-b8ded27f6033" />
+
+
+<img width="1438" height="885" alt="Screenshot 2026-08-24 202133" src="https://github.com/user-attachments/assets/db29011a-ac58-4465-b854-6c4585ddb533" />
+
+**Final commit history**
+
+
+<img width="1437" height="898" alt="Screenshot 2026-08-24 202254" src="https://github.com/user-attachments/assets/02f5b451-6343-4e9d-b7b1-9b7f7bcd9b76" />
+
+
+
 **4.**
 
 <img width="1600" height="1551" alt="08-05" src="https://github.com/user-attachments/assets/adb42ba8-a3be-4a8e-8189-4fdf631d119b" />
