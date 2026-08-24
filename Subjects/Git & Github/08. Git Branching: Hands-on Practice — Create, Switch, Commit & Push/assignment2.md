@@ -22,3 +22,7 @@
 
 **Answers:**
 
+
+<img width="899" height="1599" alt="08-02" src="https://github.com/user-attachments/assets/c06fa1ba-9f5f-4894-b7b8-35eb4a3b6db4" />
+
+
