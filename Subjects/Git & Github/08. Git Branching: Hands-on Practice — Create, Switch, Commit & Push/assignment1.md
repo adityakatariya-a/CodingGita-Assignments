@@ -12,3 +12,6 @@
 
 **Answers:**
 
+
+<img width="899" height="1599" alt="08-01" src="https://github.com/user-attachments/assets/2adc7667-b03a-42e4-8395-2c624241b670" />
+
