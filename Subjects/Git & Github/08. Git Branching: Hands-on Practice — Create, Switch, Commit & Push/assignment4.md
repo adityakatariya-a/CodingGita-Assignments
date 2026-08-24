@@ -20,3 +20,10 @@ ______ → Work → ______ → ______ → Switch to main → ______ → Delete b
 
 **Answers:**
 
+
+<img width="899" height="1599" alt="08-04 1" src="https://github.com/user-attachments/assets/340c75b6-14f9-4754-9643-23c1985323a3" />
+
+<img width="1600" height="953" alt="08-04 2" src="https://github.com/user-attachments/assets/11fe98df-d1af-4a9a-b202-1bdbfa7298db" />
+
+
+
