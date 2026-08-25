@@ -16,5 +16,11 @@
 
 **Answers:**
 
+<img width="1600" height="1436" alt="09-05 1" src="https://github.com/user-attachments/assets/a94bde90-45a6-43e0-a035-4ab64cbca708" />
+
+<img width="1080" height="1567" alt="09-05 2" src="https://github.com/user-attachments/assets/4f431cbb-60e3-45bc-8d02-924dec40fe6c" />
+
+
+
 
 
