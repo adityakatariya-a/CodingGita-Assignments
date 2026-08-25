@@ -13,3 +13,9 @@
 **Answers:**
 
 
+<img width="1591" height="1600" alt="09-02 1" src="https://github.com/user-attachments/assets/8555514e-e247-405d-bc57-f3b21bbb5e97" />
+
+<img width="1600" height="874" alt="09-02 2" src="https://github.com/user-attachments/assets/9e73ba4e-0f34-45d3-bcf4-a66d758a802c" />
+
+
+
