@@ -25,3 +25,14 @@
 - Screenshot after merging the PR  
 - Screenshot of final `git log --oneline` on main
 
+**Answers:**
+
+<img width="1438" height="897" alt="Screenshot 2026-08-25 175727" src="https://github.com/user-attachments/assets/2cba07c1-8e85-4e3a-b26c-021ca75c1cf9" />
+
+<img width="1438" height="898" alt="Screenshot 2026-08-25 175906" src="https://github.com/user-attachments/assets/cb396f29-5fc0-4588-beb2-8f131fdbdc56" />
+
+<img width="1427" height="840" alt="Screenshot 2026-08-25 175943" src="https://github.com/user-attachments/assets/f4498c14-f06a-4168-aa74-d8d6d8b854f5" />
+
+
+
+
