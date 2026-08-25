@@ -17,3 +17,8 @@
 - Screenshot of `git log --oneline`  
 - Screenshot showing `about.txt` is present on main
 
+**Answers:**
+
+<img width="1437" height="898" alt="Screenshot 2026-08-25 174850" src="https://github.com/user-attachments/assets/5135560e-40bd-47ed-a1d7-0aa72ab34296" />
+
+
