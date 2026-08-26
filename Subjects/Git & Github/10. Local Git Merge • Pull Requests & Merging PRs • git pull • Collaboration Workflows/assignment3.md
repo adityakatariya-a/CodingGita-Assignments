@@ -20,3 +20,7 @@
 **Github Repo Link:**
 
 https://github.com/adityakatariya-a/Day10-assignment3
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1eb91599-613f-4c33-b1b0-e5013ad6dd9c" />
+
