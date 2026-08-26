@@ -15,3 +15,14 @@
 
 **Answers:**
 
+**BEFORE:**
+
+<img width="1917" height="1078" alt="Screenshot 2026-08-26 155633" src="https://github.com/user-attachments/assets/c7aead2b-d62b-4967-bcc8-c52ac6eae5c4" />
+
+
+**AFTER:**
+
+<img width="1917" height="1078" alt="Screenshot 2026-08-26 155808" src="https://github.com/user-attachments/assets/28e6d7cf-d908-4182-8643-194438753820" />
+
+
+
