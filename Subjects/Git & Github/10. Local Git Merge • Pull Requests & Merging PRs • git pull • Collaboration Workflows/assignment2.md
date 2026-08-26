@@ -1,4 +1,4 @@
-### Assignment 2 – Pull Request Workflow (Mandatory)
+Assignment 2 – Pull Request Workflow (Mandatory)
 
 **Goal:** Create a Pull Request, merge it on GitHub, then update local main with `git pull`.
 
@@ -28,4 +28,15 @@
 **Github PR Link:**
 
 https://github.com/adityakatariya-a/day10-assignment2/pull/1
+
+
+**PR Screenshot**
+
+<img width="1917" height="1078" alt="Screenshot 2026-08-26 152836" src="https://github.com/user-attachments/assets/f51b0866-ca37-4ecf-a12f-8680c3efd3a5" />
+
+**Git pull screenshot**
+
+<img width="1917" height="1078" alt="Screenshot 2026-08-26 153152" src="https://github.com/user-attachments/assets/0f964c25-a962-48c8-a88a-10a63a745904" />
+
+
 
