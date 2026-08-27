@@ -12,3 +12,9 @@ Write answer **in your own words** in your notebook:
 **Answers:**
 
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/04d1898e-a210-4b11-8d6d-b03aa84cdf9d" />
+
+
+
+
+
