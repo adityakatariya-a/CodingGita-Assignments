@@ -34,7 +34,13 @@
 
 **Answers:**
 
-**PR Link**
+**(A) PR Link**
 
 https://github.com/adityakatariya-a/day11-assignment1/pull/1
+
+
+**(B & C)**
+
+<img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/200386aa-9d1b-4add-a150-31d9ddd742c3" />
+
 
