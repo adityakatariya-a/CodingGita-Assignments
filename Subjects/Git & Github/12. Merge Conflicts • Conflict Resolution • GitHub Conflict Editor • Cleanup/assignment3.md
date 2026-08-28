@@ -13,3 +13,6 @@ Commit and push the file to `main`.
 
 
 **Answers:**
+
+<img width="862" height="1280" alt="image" src="https://github.com/user-attachments/assets/346ed83b-6afc-4bbc-b483-46e1c9c7f170" />
+
