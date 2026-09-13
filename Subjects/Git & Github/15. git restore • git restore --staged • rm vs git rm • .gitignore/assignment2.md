@@ -33,3 +33,15 @@ git commit -m "Remove profile.txt using git rm"
 **Answers**
 
 
+**screenshot of git status after rm and git rm**
+
+<img width="1535" height="862" alt="Screenshot 2026-09-13 154905" src="https://github.com/user-attachments/assets/c14403b5-856b-470e-880f-dcbc50e91736" />
+
+**difference between rm and git rm**
+
+<img width="1535" height="862" alt="Screenshot 2026-09-13 155932" src="https://github.com/user-attachments/assets/9046f5c5-ed0e-436d-801a-929ab667ef09" />
+
+
+**github repo link**
+
+https://github.com/adityakatariya-a/day-15-assignment-1.git
