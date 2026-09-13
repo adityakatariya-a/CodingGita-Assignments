@@ -52,3 +52,15 @@ git push origin main
 
 **Answers:**
 
+<img width="1535" height="862" alt="Screenshot 2026-09-13 162742" src="https://github.com/user-attachments/assets/003d259b-b5a2-4aa3-b013-6ea2e3583ca0" />
+
+
+<img width="1535" height="862" alt="Screenshot 2026-09-13 162805" src="https://github.com/user-attachments/assets/9044e2b2-d302-4680-8198-3b5a4631e8df" />
+
+<img width="1535" height="862" alt="Screenshot 2026-09-13 162820" src="https://github.com/user-attachments/assets/24333392-c855-4c57-ba5f-0ad5e7190018" />
+
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/07721be0-ffe6-4784-90fd-596d92561dbf" />
+
+**repo link**
+
+https://github.com/adityakatariya-a/day-15-assignment-3.git
