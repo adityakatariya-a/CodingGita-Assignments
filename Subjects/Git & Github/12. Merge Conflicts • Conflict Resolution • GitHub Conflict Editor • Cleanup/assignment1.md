@@ -38,3 +38,15 @@ My Tasks
 
 **Answers:**
 
+**Github Repo Link**
+
+https://github.com/adityakatariya-a/day-12-assignment-1.git
+
+
+**Screeshots**
+
+<img width="1438" height="898" alt="Screenshot 2026-09-10 215406" src="https://github.com/user-attachments/assets/b6e47c93-75cc-42c8-a177-a93383013334" />
+
+<img width="1438" height="898" alt="Screenshot 2026-09-10 215513" src="https://github.com/user-attachments/assets/99ec0e64-8bb3-4a58-ba47-5a7e634d3f9f" />
+
+<img width="1535" height="862" alt="Screenshot 2026-09-10 215924" src="https://github.com/user-attachments/assets/bfd9fb18-8662-4e6c-ae64-58b32df39601" />
