@@ -22,3 +22,17 @@
 - Screenshot of `git log --oneline` showing the revert commit
 - Photos of written answers.
 - Repository link
+
+**Answers:**
+
+**Github Repo Link**
+
+https://github.com/adityakatariya-a/day-16-assignments-3.git
+
+**Screenshot of `git log --oneline` showing the revert commit**
+
+<img width="1535" height="862" alt="Screenshot 2026-09-23 213850" src="https://github.com/user-attachments/assets/8a213ca2-2f86-4912-8ae1-2b4f4adeb434" />
+
+**Written Answers**
+
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-23 at 9 49 05 PM" src="https://github.com/user-attachments/assets/4478ca71-38f8-452a-bbcb-8638b34edc1a" />
