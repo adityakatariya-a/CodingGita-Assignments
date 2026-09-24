@@ -17,3 +17,14 @@
 - Screenshot of the conflict (VS Code or terminal)
 - Screenshot after successful `git revert --continue`
 - Repository link
+
+**Answers:**
+
+**github repo link**
+
+https://github.com/adityakatariya-a/day-17-assignment-2.git
+
+**Screenshot**
+
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/f9646623-32fb-4029-994e-7d083b10a1ab" />
+
