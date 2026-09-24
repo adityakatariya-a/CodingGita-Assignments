@@ -15,3 +15,15 @@
 - Screenshot of `git log --oneline` before revert
 - Screenshot of `git log --oneline` after revert
 - Repository link
+
+**Answers:**
+
+**github repo link**
+
+https://github.com/adityakatariya-a/day-17-assignment-1.git
+
+**Screenshot**
+
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/94a9b8b3-fd97-45bc-bb60-ad899e676fa0" />
+
+
