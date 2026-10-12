@@ -58,10 +58,10 @@ match operator:
         print("Invalid operator")
 
 # Q53
- color = input("Signal colour:")
- match color:
-     case "red":
-        print("Stop")
+color = input("Signal colour:")
+match color:
+    case "red":
+       print("Stop")
     case "green":
         print("Go")
     case "yellow":
