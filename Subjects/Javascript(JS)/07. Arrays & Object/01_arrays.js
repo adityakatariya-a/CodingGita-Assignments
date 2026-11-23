@@ -428,3 +428,286 @@
 // console.log(matrix[0][2]); // 3
 
 
+
+// 12. Real-World Example =========================
+
+// ```
+// const marks = [
+//     [85, 90, 92], // Jenil
+//     [70, 75, 80], // Arjun
+//     [88, 82, 89]  // Krishna
+// ];
+
+// for (let i = 0; i < marks.length; i++) {
+//     const studentMarks = marks[i];
+//     const total = studentMarks[0] + studentMarks[1] + studentMarks[2];
+//     const avg = total / 3;
+//     console.log("Student " + (i + 1) + " average: " + avg);
+// }
+// ```
+
+// 1. In the given marks example, what does `marks[i]` represent inside the loop?
+// Ans=>
+// marks[i] represents the array of marks for the i-th student. For example, when i=0, marks[0] is [85, 90, 92], which are the marks for Jenil.
+
+
+// 2. Why do we use `marks.length` in the outer loop instead of hard-coding the number 3?  
+// Ans=>
+// We use marks.length in the outer loop to make the code dynamic and adaptable to any number of students. If we hard-code the number 3, the code would only work for exactly 3 students. Using marks.length allows the loop to iterate through all students regardless of how many there are in the array.
+
+
+// 3. What will happen if one student has only 2 subject marks instead of 3? (Think about the calculation)
+// Ans=>
+// If one student has only 2 subject marks instead of 3, the calculation for the total and average will be incorrect. The code assumes that each student has exactly 3 marks, so if a student has fewer marks, it will result in an undefined value when trying to access the third mark, leading to NaN (Not a Number) in the total and average calculations.
+
+
+
+// 13. Common  Mistakes & Misconceptions =========================
+
+
+
+
+// 1. What does the following code output?  
+//    ```javascript
+//    const arr = [10, 20, 30];
+//    console.log(arr[3]);
+//    ```  
+// Ans=>
+// undefined
+
+
+
+// 3. Why is this code considered wrong?  
+//    ```javascript
+//    arr[arr.length] = 10;
+//    ```  
+// Ans=>
+// This code is considered wrong because it attempts to add a new element (10) at the index equal to the current length of the array. While this will work to add an element at the end of the array, it is not a recommended practice. The preferred way to add an element to the end of an array is to use the `push()` method, which is more readable and less error-prone.
+
+
+
+// 4. Correct the above code so that 40 is properly added at the end of the array on the place of 30:  
+//    ```javascript
+//    let arr = [10, 20, 30];
+//    arr[arr.length] = 40;
+//    ```  
+// Ans=>
+// let arr = [10, 20, 30];
+// arr.push(40); 
+// console.log(arr); // Output: [10, 20, 30, 40]
+
+
+
+// 5. What is a “sparse array”? Give one example of how it can be created accidentally.  
+// Ans=>
+// A sparse array is an array that has empty slots (gaps) between its elements. It can be created accidentally by using the `delete` operator on an array element or by initializing an array with a length greater than the number of elements it contains.
+
+
+// 6. True or False: Accessing an invalid index throws an error in JavaScript.  
+// Ans=>
+// False. Accessing an invalid index in JavaScript returns `undefined` and does not throw an error.
+
+
+// 7. What is the difference between an array and an object in JavaScript? (One key difference)
+// Ans=>
+// An array is an ordered collection of elements indexed by numbers, while an object is an unordered collection of key-value pairs indexed by strings.
+
+
+
+// 14. Practice Exercises =========================
+
+
+
+// 1. Given the array:  
+//    `const numbers = [12, 7, 18, 25, 4, 9, 30];`  
+//    Print only the **even numbers** using a loop.
+// Ans=>
+// const numbers = [12, 7, 18, 25, 4, 9, 30];
+// for (let i=0; i < numbers.length; i++){
+//     if (numbers[i]%2==0){
+//         console.log(numbers[i]);
+//     }
+// }
+
+
+// 2. Given the array:  
+//    `const cities = ["Ahmedabad", "Surat", "Rajkot", "Vadodara", "Bhavnagar"];`  
+//    Print all city names in **reverse order** (last to first) using a loop.
+// Ans=>
+// const cities = ["Ahmedabad", "Surat", "Rajkot", "Vadodara", "Bhavnagar"];
+// for (let i=cities.length-1; i>=0; i--){
+//     console.log(cities[i])
+// }
+
+
+// 3. Given the array:  
+//    `const scores = [12, 45, 7, 89, 23];`  
+//    Find and print the **second largest** number.
+// Ans=>
+// const scores = [12, 45, 7, 89, 23];
+// const scores = [12, 45, 7, 89, 23];
+// scores.sort((a, b) => b - a);
+// console.log(scores[1]);
+
+
+// 4. Given the array:  
+//    `const colors = ["Red", "Blue", "Green", "Yellow"];`  
+//    Use `push()` to add `"Purple"` at the end and `unshift()` to add `"Black"` at the beginning. Then print the final array.
+// Ans=>
+// const colors = ["Red", "Blue", "Green", "Yellow"];
+// colors.push("Purple");
+// colors.unshift("Black");
+// console.log(colors); // Output: ["Black", "Red", "Blue", "Green", "Yellow", "Purple"]
+
+
+// 5. Given the matrix:  
+//    ```javascript
+//    const matrix = [
+//        [10, 20, 30],
+//        [40, 50, 60]
+//    ];
+//    ```  
+//    Calculate and print the **sum of all elements**.
+// Ans=>
+// const matrix = [
+//     [10, 20, 30],
+//     [40, 50, 60]
+// ];
+// let sum = 0;
+// for (let i = 0; i < matrix.length; i++) {
+//     for (let j = 0; j < matrix[i].length; j++) {
+//         sum += matrix[i][j];
+//     }
+// }
+// console.log(sum);
+
+
+// 6. Given the array:  
+//    `const marks = [45, 67, 89, 32, 76, 91, 54];`  
+//    Count how many numbers are **greater than 50** and print the count.
+// Ans=>
+// const marks = [45, 67, 89, 32, 76, 91, 54];
+// let count = 0;
+// for (let i = 0; i < marks.length; i++) {
+//     if (marks[i] > 50) {
+//         count++;
+//     }
+// }
+// console.log(count);
+
+
+// 7. Given the matrix:  
+//    ```javascript
+//    const matrix = [
+//        [1, 2, 3],
+//        [4, 5, 6],
+//        [7, 8, 9]
+//    ];
+//    ```  
+//    Print only the **main diagonal elements** (1, 5, 9).
+// Ans=>
+// const matrix = [
+//     [1, 2, 3],
+//     [4, 5, 6],
+//     [7, 8, 9]
+// ];
+// for (let i = 0; i < matrix.length; i++) {
+//     console.log(matrix[i][i]);
+// }
+
+
+
+// 15. Multiple Choice Questions ========================
+
+// **Q1.** What will be the output of the following code?  
+// ```javascript
+// const arr = [5, 10, 15, 20];
+// console.log(arr[arr.length - 1]);
+// ```  
+// a) 5  
+// b) 10  
+// c) 15  
+// d) 20 
+// Ans=> 
+// d) 20
+
+
+// **Q2.** Which of the following correctly adds an element at the **beginning** of an array?  
+// ```javascript
+// const arr = [10, 20, 30];
+// ```  
+// a) `arr.push(5)`  
+// b) `arr.pop(5)`  
+// c) `arr.unshift(5)`  
+// d) `arr.shift(5)`  
+// Ans=>
+// c) `arr.unshift(5)`
+
+
+// **Q3.** What does the following code print?  
+// ```javascript
+// const fruits = ["Apple", "Banana", "Mango"];
+// console.log(fruits.indexOf("Orange"));
+// ```  
+// a) 0  
+// b) 2  
+// c) -1  
+// d) undefined  
+// Ans=>
+// c) -1
+
+
+// **Q4.** Which statement about JavaScript arrays is **true**?  
+// a) Arrays can only store numbers  
+// b) Arrays are always sorted  
+// c) Arrays can store mixed data types  
+// d) Array indexes start from 1  
+// Ans=>
+// c) Arrays can store mixed data types
+
+
+// **Q5.** What is the output of this code?  
+// ```javascript
+// let nums = [1, 2, 3];
+// nums.pop();
+// nums.push(4);
+// console.log(nums);
+// ```  
+// a) [1, 2, 3, 4]  
+// b) [1, 2, 4]  
+// c) [2, 3, 4]  
+// d) [1, 2, 3]  
+// Ans=>
+// b) [1, 2, 4]
+
+
+// **Q6.** In the following 2D array, what does `matrix[2][1]` return?  
+// ```javascript
+// const matrix = [
+//     [10, 20],
+//     [30, 40],
+//     [50, 60]
+// ];
+// ```  
+// a) 30  
+// b) 40  
+// c) 50  
+// d) 60  
+// Ans=>
+// d) 60
+
+
+// **Q7.** What will be printed?  
+// ```javascript
+// const data = [10, "Hello", false];
+// console.log(typeof data[1]);
+// ```  
+// a) number  
+// b) string  
+// c) boolean  
+// d) object  
+// Ans=>
+// b) string
+
+
+
