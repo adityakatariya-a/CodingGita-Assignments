@@ -16,9 +16,9 @@
 // ```
 
 // Answer:
-for (let i=0; i<15; i++){
-    console.log(i+1)
-}
+// for (let i=0; i<15; i++){
+//     console.log(i+1)
+// }
 
 
 // Q2. Even Numbers
@@ -36,9 +36,9 @@ for (let i=0; i<15; i++){
 // ```
 
 // Answer:
-for (let i=0; i<40; i+=2){
-    console.log(i+2)
-}
+// for (let i=0; i<40; i+=2){
+//     console.log(i+2)
+// }
 
 
 // Q3. Odd Numbers
@@ -56,9 +56,9 @@ for (let i=0; i<40; i+=2){
 // ```
 
 // Answer:
-for (let i=0; i<35; i+=2){
-    console.log(i+1)
-}
+// for (let i=0; i<35; i+=2){
+//     console.log(i+1)
+// }
 
 
 // Q4. Saving Money
@@ -70,12 +70,12 @@ for (let i=0; i<35; i+=2){
 // ```
 
 // Answer:
-let total=0;
-let saving=10;
-for (let day=0; day<10; day++,saving+=10){
-    total=total+saving
-}
-console.log(total)
+// let total=0;
+// let saving=10;
+// for (let day=0; day<10; day++,saving+=10){
+//     total=total+saving
+// }
+// console.log(total)
 
 
 // Q5. Multiplication Table
@@ -96,9 +96,9 @@ console.log(total)
 // ```
 
 // Answer:
-for (let i=1; i<=10; i++){
-    console.log(12,"x",i,"=",12*i)
-}
+// for (let i=1; i<=10; i++){
+//     console.log(12,"x",i,"=",12*i)
+// }
 
 
 // Q6. Daily Water Intake 
@@ -116,11 +116,11 @@ for (let i=1; i<=10; i++){
 // ```
 
 // Answer:
-let total=0;
-for (let day=1; day<=7; day++){
-    total+=3
-    console.log("Day",day+":",total,"glasses")
-}
+// let total=0;
+// for (let day=1; day<=7; day++){
+//     total+=3
+//     console.log("Day",day+":",total,"glasses")
+// }
 
 
 // Q7. Shopping Calculation
@@ -137,11 +137,11 @@ for (let day=1; day<=7; day++){
 // ```
 
 // Answer:
-let totalCost = 0;
-for (let i=1; i<=10; i++){
-    totalCost+=15;
-    console.log(i,"Chocolates =","₹"+totalCost)
-}
+// let totalCost = 0;
+// for (let i=1; i<=10; i++){
+//     totalCost+=15;
+//     console.log(i,"Chocolates =","₹"+totalCost)
+// }
 
 
 // Q8. Sum of Even Numbers
@@ -153,11 +153,11 @@ for (let i=1; i<=10; i++){
 // ```
 
 // Answer:
-let total = 0;
-for (let i=0; i<30; i+=2){
-    total = total + i + 2
-}
-console.log("Sum of even numbers:",total)
+// let total = 0;
+// for (let i=0; i<30; i+=2){
+//     total = total + i + 2
+// }
+// console.log("Sum of even numbers:",total)
 
 
 // Q9. Weekly Exercise 
@@ -175,10 +175,10 @@ console.log("Sum of even numbers:",total)
 // ```
 
 // Answer:
-let totalPushUps = 5;
-for (let day=1; day<=7; day++, totalPushUps+=5){
-    console.log("Day",day+":",totalPushUps,"push-ups")
-}
+// let totalPushUps = 5;
+// for (let day=1; day<=7; day++, totalPushUps+=5){
+//     console.log("Day",day+":",totalPushUps,"push-ups")
+// }
 
 
 // Q10. Movie Tickets
@@ -197,8 +197,8 @@ for (let day=1; day<=7; day++, totalPushUps+=5){
 // ```
 
 // Answer:
-let totalCost = 0;
-for (let people=1; people<=8; people++){
-    totalCost+=150
-    console.log(people,"People:","₹"+totalCost)
-}
+// let totalCost = 0;
+// for (let people=1; people<=8; people++){
+//     totalCost+=150
+//     console.log(people,"People:","₹"+totalCost)
+// }
