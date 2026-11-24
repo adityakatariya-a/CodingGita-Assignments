@@ -711,3 +711,269 @@
 
 
 
+// 16-A Mini Assignment 1: Shopping Cart Calculator ===========================
+
+
+
+// **Given Input:**
+// ```javascript
+// const cart = [
+//     ["Laptop", 45000, 1],
+//     ["Mouse", 800, 2],
+//     ["Keyboard", 1500, 1],
+//     ["Headphones", 2500, 1]
+// ];
+// ```
+// *(Format: [Product Name, Price, Quantity])*
+
+// **Tasks:**
+
+// 1. Loop through the cart.
+// 2. For each item, calculate the total price (`Price × Quantity`).
+// 3. Print in this format:
+//    ```
+//    Product: Laptop
+//    Price: 45000
+//    Quantity: 1
+//    Item Total: 45000
+//    ```
+// 4. At the end, print the **Grand Total** of the entire cart.
+// 5. **Bonus:** Apply 10% discount if Grand Total > 50000 and show the final payable amount.
+
+// Ans=>
+
+// const cart = [
+//     ["Laptop", 45000, 1],
+//     ["Mouse", 800, 2],
+//     ["Keyboard", 1500, 1],
+//     ["Headphones", 2500, 1]
+// ];
+// let count = 0;
+// for (let i = 0; i < cart.length; i++){
+//     let price = cart[i][1];
+//     let quantity = cart[i][2];
+//     let itemTotal = price*quantity;
+//     console.log("Product:" + cart[i][0]);
+//     console.log("Price:" + cart[i][1]);
+//     console.log("Quantity:" + cart[i][2]);
+//     console.log("Item Total:" + itemTotal);
+//     console.log("-------------------");
+//     count += itemTotal;
+// }
+// if (count > 50000){
+//     count = count*0.90
+//     console.log("You got 10% discount!");
+// }
+// console.log("Grand Total:" + count);
+
+
+
+// 16-B Mini Assignment 2: Classroom Attendance Tracker ===========================
+
+
+
+// **Given Input:**
+// ```javascript
+// const attendance = [
+//     ["Jenil", ["P", "P", "A", "P", "P"]],
+//     ["Mahir", ["P", "A", "P", "P", "A"]],
+//     ["Yashvi", ["P", "P", "P", "P", "P"]],
+//     ["Arjun", ["A", "A", "P", "P", "A"]]
+// ];
+// ```
+// *(P = Present, A = Absent)*
+
+// **Tasks:**
+// 1. Loop through each student.
+// 2. Count total Presents and Absents.
+// 3. Calculate attendance percentage.
+// 4. Print in this format:
+//    ```
+//    Name: Jenil
+//    Present: 4
+//    Absent: 1
+//    Attendance: 80%
+//    Status: Good
+//    ```
+// 5. Status rule:
+//    - ≥ 75% → `Good`
+//    - < 75% → `Low Attendance`
+// 6. **Bonus:** Print the name of the student with highest attendance.
+
+// Ans=>
+   
+// const attendance = [
+//     ["Jenil", ["P", "P", "A", "P", "P"]],
+//     ["Mahir", ["P", "A", "P", "P", "A"]],
+//     ["Yashvi", ["P", "P", "P", "P", "P"]],
+//     ["Arjun", ["A", "A", "P", "P", "A"]]
+// ];
+
+// for (let i = 0; i < attendance.length; i++){
+//     let presentCount = 0;
+//     let absentCount = 0;
+//     let status = "";
+//     let name = attendance[i][0];
+//     let records = attendance[i][1];
+//     for (let j = 0; j < records.length; j++){
+//         if (records[j] === "P"){
+//             presentCount++;
+//         } else {
+//             absentCount++;
+//         }
+//     }
+
+//     let attendence = (presentCount/(presentCount+absentCount))*100;
+//     if (attendence >= 75){
+//     status = "Good";
+//     } else {
+//     status = "Low Attendance";
+//     }
+    
+// console.log("Name: " + name);
+// console.log("Present: " + presentCount);
+// console.log("Absent: " + absentCount);
+// console.log("Attendance: " + attendence + "%");
+// console.log("Status: " + status);
+// console.log("-------------------");
+// }
+
+
+
+// 16-C Mini Assignment 3: Movie Rating Analyzer ============================
+
+
+
+// **Given Input:**
+// ```javascript
+// const movies = [
+//     ["Inception", [9, 8, 9, 10, 8]],
+//     ["Avatar", [7, 8, 7, 6, 8]],
+//     ["Interstellar", [10, 9, 9, 10, 9]],
+//     ["Joker", [8, 7, 8, 9, 8]]
+// ];
+// ```
+
+// **Tasks:**
+// 1. For each movie, calculate the average rating.
+// 2. Print in this format:
+//    ```
+//    Movie: Inception
+//    Ratings: 9 8 9 10 8
+//    Average Rating: 8.8
+//    Verdict: Excellent
+//    ```
+// 3. Verdict rules:
+//    - Average ≥ 9 → `Excellent`
+//    - Average ≥ 7 and < 9 → `Good`
+//    - Average < 7 → `Average`
+// 4. **Bonus:** Find and print the movie with the highest average rating.
+
+// Ans=>
+
+// const movies = [
+//     ["Inception", [9, 8, 9, 10, 8]],
+//     ["Avatar", [7, 8, 7, 6, 8]],
+//     ["Interstellar", [10, 9, 9, 10, 9]],
+//     ["Joker", [8, 7, 8, 9, 8]]
+// ];
+
+// for (let i=0; i<movies.length; i++){
+//     let movieName = movies[i][0];
+//     let ratings = movies[i][1];
+//     let count = 0
+//     let ratingPrint = ""
+//     for (let j=0; j<ratings.length; j++){
+//         count += ratings[j];
+//         ratingPrint += ratings[j] + " ";
+//     }
+//     let avaregeRating = count/ratings.length;
+//     let verdict = ""
+//     if (avaregeRating >= 9){
+//         verdict = "Excellent";
+//     }else if(avaregeRating>=7 && avaregeRating<9){
+//         verdict = "Good";
+//     }else{
+//         verdict = "Average";
+//     }
+
+//     console.log("Movie:" + movieName);
+//     console.log("Ratings:" + ratingPrint);
+//     console.log("Average Rating:" + avaregeRating);
+//     console.log("Verdict:" + verdict);
+//     console.log("-------------------");
+// }
+
+
+
+// 16-D Mini Assignment 4: Temperature of the Week =====================
+
+
+
+// **Given Input:**
+// ```javascript
+// const temperatures = [
+//     ["Monday", 32],
+//     ["Tuesday", 35],
+//     ["Wednesday", 30],
+//     ["Thursday", 28],
+//     ["Friday", 33],
+//     ["Saturday", 36],
+//     ["Sunday", 31]
+// ];
+// ```
+
+// **Tasks:**
+// 1. Print the temperature of each day.
+// 2. Find and print:
+//    - Highest temperature + day
+//    - Lowest temperature + day
+//    - Average temperature of the week
+// 3. Print a warning if any day has temperature ≥ 35:  
+//    `Heat Alert on <Day>`
+
+// Ans=>
+// const temperatures = [
+//     ["Monday", 32],
+//     ["Tuesday", 35],
+//     ["Wednesday", 30],
+//     ["Thursday", 28],
+//     ["Friday", 33],
+//     ["Saturday", 36],
+//     ["Sunday", 31]
+// ];
+
+// let highest = temperatures[0];
+// let lowest = temperatures[0];
+// let total = 0;
+
+// console.log("Weekly Temperatures:");
+// console.log("-------------------");
+
+// for (let i = 0; i < temperatures.length; i++) {
+//     let day = temperatures[i][0];
+//     let temp = temperatures[i][1];
+
+//     console.log(`${day}: ${temp}°C`);
+
+//     if (temp > highest[1]) {
+//         highest = temperatures[i];
+//     }
+
+//     if (temp < lowest[1]) {
+//         lowest = temperatures[i];
+//     }
+
+//     total += temp;
+
+//     if (temp >= 35) {
+//         console.log(`Heat Alert on ${day}`);
+//     }
+//     console.log("-------------------");
+// }
+
+// let average = total / temperatures.length;
+
+// console.log("\nHighest Temperature:", highest[1], "°C on", highest[0]);
+// console.log("Lowest Temperature:", lowest[1], "°C on", lowest[0]);
+// console.log("Average Temperature:", average.toFixed(2), "°C");
